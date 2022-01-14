@@ -1,4 +1,4 @@
-- 👋 Hi, This is where I keep my project for testing mobile/cloud text extraction and translation app.
+- 👋 Hi, This is where I keep my project of mobile/cloud text extraction and translation app.
 - 👀 
 - 🌱 
 - 💞️ 
